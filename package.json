@@ -11,5 +11,14 @@
   "dependencies": {
     "ejs": "^3.0.1",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woohyodong/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/woohyodong/nodejs/issues"
+  },
+  "homepage": "https://github.com/woohyodong/nodejs#readme"
 }
